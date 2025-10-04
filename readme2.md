@@ -13,7 +13,7 @@ Originální obsah je zachován, tady si jen značím, **kam jsem se dostal a co
 | 2025-09-26  | 0:48 Data Types | 
 | 2025-09-27  | 1:34 Conditional Statements             | 
 | 2025-09-28       | 3:02 Functions             | 
-| ...        | ...             | 
+| 2025-10-04       | 4:10 classes            | 
 | ...        | ...             | 
 | ...        | ...             | 
 | ...        | ...             | 
